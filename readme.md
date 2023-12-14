@@ -1,5 +1,3 @@
-Welcome to the Solitaire Game Project Feedback issue! This is the designated space for end users to access and download the executable JAR (Java Archive) file, allowing them to run and experience our Solitaire game application.
-
 Instructions for End Users:
 
 1. Download JAR File: To explore and enjoy our Solitaire game, please download the executable JAR file attached to this issue.
